@@ -25,8 +25,9 @@ Git (Latest)
 Installation and Setup Instructions
 
 Clone down this repository on your machine
-I
+
 Install Python, Jupytor notebook.
+
 Install matplotlib
 
 /*
