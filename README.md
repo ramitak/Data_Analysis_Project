@@ -9,9 +9,9 @@ Program: Data Analytics
 
 Class: DA1 /Tuesday
 
-IMDB Top 250 Movies
+# IMDB Top 250 Movies
 
-Description
+## Description
 
 This project is about the top Movies, The dataset contains the top 250 rated movies on IMDB as of 2021, providing a snapshot of the most popular and highly rated movies of recent times. The focus of this project is to showcase data's in different ways like it will be able to show different lists of movies according to genre,different ratings and all that.
 
