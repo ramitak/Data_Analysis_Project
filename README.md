@@ -1,9 +1,12 @@
 # Data_Analysis_Project
 
 
-Email: ramita9070@gmail.com
+Email: ramita9070@gmail.com 
+
 Name: Ramita Kumpakha
+
 Program: Data Analytics
+
 Class: DA1 /Tuesday
 
 IMDB Top 250 Movies
